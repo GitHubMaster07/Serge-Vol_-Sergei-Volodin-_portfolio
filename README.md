@@ -1,4 +1,6 @@
-<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/7253a521-f3e8-4ce3-8202-628f3a727884" />
+
+<img width="2376" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/35cdca0d-3703-4244-98db-b664fc642f20" />
+
 👋 Hi, I'm Sergei Volodin
 
 **Senior Software Development Engineer in Test (SDET)** with 7+ years of experience in automation, data validation, and CI/CD integration. I specialize in building scalable test frameworks for UI, API, database, and mobile testing — with a strong focus on quality, performance, and continuous delivery.
