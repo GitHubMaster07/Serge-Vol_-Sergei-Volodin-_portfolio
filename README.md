@@ -15,7 +15,7 @@
 - 📱 [Mobile Testing Framework (Appium)](https://github.com/SergeVol/mobile-testing-framework)  
   Mobile framework using Appium.
 
-- 📄 [Test Strategy & Documentation Samples](https://github.com/GitHubMaster07/Test-Strategy-Documentation-Samples.git))  
+- 📄 [Test Strategy & Documentation Samples](https://github.com/GitHubMaster07/Test-Strategy-Documentation-Samples.git)  
   Includes test plans, traceability matrices, defect reports, and BDD scenarios.
 
 ---
