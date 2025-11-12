@@ -56,6 +56,14 @@
 ### 🟥 Google
 - Google Cloud Data Analytics Certificate
 
+
+### 🟩 The Linux Foundation (LF)
+- LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks
+- SKF100: Understanding the OWASP® Top 10 Security Threats
+- LFC120: Leading High-Performance Working Group Meetings
+- LFEL1011: OpenAPI Fundamentals
+- LFEL1012: Secure AI/ML-Driven Software Development
+
 ### 🟧 LinkedIn Learning
 - Critical Thinking for Better Judgment and Decision-Making
 
