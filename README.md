@@ -23,7 +23,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/serge-vol)
-- [Download My Resume](https://drive.google.com/file/d/1BPCWFH3ivWbwBRBizxpgeBrCY2_9OwPM/view?usp=sharing)
+- [Download My Resume](https://docs.google.com/document/d/1ddwsJIRCVywK4hp9tIXVuO8a7mbR6O5B9fYb-DUyGiY/edit?usp=sharing)
 
 ---
 
